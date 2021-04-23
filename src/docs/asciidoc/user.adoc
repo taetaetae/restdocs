@@ -1,3 +1,6 @@
+:basedir: {docdir}/../../../
+:snippets: {basedir}/build/generated-snippets
+
 = RESTful Notes API Guide
 :doctype: user
 :icons: font
